@@ -18,7 +18,7 @@ A comprehensive hospital inventory management system built with C# and Windows F
 
 ### Running the Application
 
-1. Clone the repository: `git clone https://github.com/Sibghat-629/Hospital.git`
+1. Clone the repository: `git clone https://github.com/Sibghat-629/HealthGrid.git`
 2. Open the solution file `Hospitalinventorysystem.sln` in Visual Studio.
 3. Build the solution (Ctrl + Shift + B).
 4. Run the application (F5).
